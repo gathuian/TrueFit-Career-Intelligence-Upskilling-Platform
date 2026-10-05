@@ -1,0 +1,7 @@
+{
+  "name": "TrueFit — Career Intelligence & Upskilling Platform",
+  "description": "An empathetic, AI-native career intelligence engine that decodes job descriptions, uncovers implicit requirements, maps precise skill gaps, and generates targeted 4-hour upskilling micro-projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
